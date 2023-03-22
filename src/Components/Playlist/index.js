@@ -11,7 +11,7 @@ import "./style.css";
 // import Card from 'react-bootstrap/Card';
 
 function Playlist(props) {
-  return <main className="container">{props.children}</main>;;
+  return <main className="container">{props.children}</main>;
 }
 
 
